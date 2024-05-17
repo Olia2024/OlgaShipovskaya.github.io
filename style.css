@@ -12,7 +12,7 @@ header{
     background-image: url(img/background.jpg);
     background-size: cover;
     width: 50%;
-    align-content: center;
+    background-position: center;
 }
 
 .name{
