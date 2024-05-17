@@ -12,7 +12,6 @@ header{
     background-image: url(img/background.jpg);
     background-size: cover;
     width: 50%;
-    background-position: center;
 }
 
 .name{
@@ -52,7 +51,6 @@ main p {
     background-image: url(img/background.jpg);
     background-repeat: no-repeat;
     background-position: center;
-
 }
 
 .avatar img{
