@@ -45,7 +45,7 @@ main p {
 }
 
 .avatar{
-    height: 100px;
+    height: 50%;
     text-align: center;
     margin: 3rem 0;
     background-image: url(img/me.jpg);
