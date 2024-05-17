@@ -84,6 +84,6 @@ footer{
     background-color: rgb(70, 138, 240);
 }
 
-img{
-    height: 100px;
+.container img{
+    height: 50%;
 }
